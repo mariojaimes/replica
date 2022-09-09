@@ -1,0 +1,91 @@
+
+/*Fondo principal de la pagina*/
+.fondo{
+
+    /*background-color: #1ABC9C;*/
+    background-color: rgb(26,188,156);
+
+}
+/*Colores de Fondo ejercicio*/
+
+.fondorojo{
+
+    background-color: red;
+}
+
+.fondoazul{
+
+    background-color: blue;
+}
+
+.fondovioleta{
+    background-color: mediumpurple;
+}
+
+.fondoblanco{
+    background-color: white;
+
+}
+
+
+.fondoamarillo{
+
+    background-color: yellow;
+}
+
+.fondoverdeclaro{
+    background-color: chartreuse;
+}
+
+
+/*colores letra*/
+.letrablanca{
+
+    color: white;
+
+}
+
+.tamañoletra{
+    font-size: 35px;
+}
+
+/*Bordes*/
+
+.bordegris1{
+    border: 8px outset rgb(128, 128, 128);
+}
+.bordergris2{
+    border: 8px outset rgb(128, 128, 128);
+
+}
+
+.bordegris3{
+    border: 15px outset rgb(128, 128, 128);
+
+}
+.bordegris4{
+    border: 2px outset rgb(128, 128, 128);
+
+
+}
+
+.bordenegro{
+    border: 1px outset black;
+
+
+}
+
+/*tamaños  */
+.tamañorecuadro{
+    width: 100%;
+
+}
+
+/*margen*/
+
+
+.margen{
+
+    margin: -5px;
+    padding: -5px;
+}
